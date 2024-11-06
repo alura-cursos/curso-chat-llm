@@ -1,0 +1,10 @@
+litellm
+gradio>=4.44.1
+pinecone
+requests
+pandas
+python-dotenv
+transformers
+numpy
+torch
+torchaudio
