@@ -1,1 +1,1 @@
-# curso-chat-llm
+![thumb](thumb.png)
