@@ -115,7 +115,7 @@ tools = [
 
 
 # Função para chamar a API com o histórico de mensagens
-def call_groq_api(messages, model="groq/llama3-groq-70b-8192-tool-use-preview"):
+def call_groq_api(messages, model="groq/llama-3.3-70b-versatile"):
     global tools
     GROQ_API_KEY = os.getenv('GROQ_API_KEY')
     response = completion(
